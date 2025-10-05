@@ -1,0 +1,12 @@
+# Jangan upload file koneksi asli
+koneksi.php
+
+# Jangan upload file environment
+.env
+
+# Jangan upload folder vendor (jika pakai Composer)
+/vendor/
+
+# Jangan upload file backup
+*.sql
+*.bak
